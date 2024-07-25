@@ -15,10 +15,10 @@ variables:
   webAppName: ''
 
   # Environment name
-  environmentName: ''
+  environmentName: 'HelloTest'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'avani-Latitude-3410'
 
 stages:
 - stage: Build
